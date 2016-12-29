@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AuthNetCore</title>
+
+    @{await Html.RenderPartialAsync("_Styles");}
+</head>
+<body>
+    @await Component.InvokeAsync("Navbar")
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; 2016 - AuthNetCore</p>
+        </footer>
+    </div>
+
+    @{await Html.RenderPartialAsync("_Scripts");}
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

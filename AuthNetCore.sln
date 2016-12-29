@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{745E4D11-98CE-4431-BC41-8C4AE23E442D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthNetCore", "src\AuthNetCore\AuthNetCore.csproj", "{0600D7CF-FA75-4B14-B371-252B3BE0F06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Debug|x64.ActiveCfg = Debug|x64
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Debug|x64.Build.0 = Debug|x64
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Debug|x86.ActiveCfg = Debug|x86
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Debug|x86.Build.0 = Debug|x86
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Release|x64.ActiveCfg = Release|x64
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Release|x64.Build.0 = Release|x64
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Release|x86.ActiveCfg = Release|x86
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0600D7CF-FA75-4B14-B371-252B3BE0F06A} = {745E4D11-98CE-4431-BC41-8C4AE23E442D}
+	EndGlobalSection
+EndGlobal

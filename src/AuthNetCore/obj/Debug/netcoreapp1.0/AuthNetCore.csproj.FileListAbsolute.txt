@@ -1,0 +1,8 @@
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\bin\Debug\netcoreapp1.0\AuthNetCore.deps.json
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\bin\Debug\netcoreapp1.0\AuthNetCore.runtimeconfig.json
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\bin\Debug\netcoreapp1.0\AuthNetCore.runtimeconfig.dev.json
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\bin\Debug\netcoreapp1.0\AuthNetCore.dll
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\bin\Debug\netcoreapp1.0\AuthNetCore.pdb
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\obj\Debug\netcoreapp1.0\AuthNetCore.AssemblyInfo.cs
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\obj\Debug\netcoreapp1.0\AuthNetCore.dll
+E:\Jeffrey\Git\AuthNetCore\src\AuthNetCore\obj\Debug\netcoreapp1.0\AuthNetCore.pdb
